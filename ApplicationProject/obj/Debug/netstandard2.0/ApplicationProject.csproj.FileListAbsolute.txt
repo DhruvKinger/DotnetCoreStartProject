@@ -1,0 +1,9 @@
+D:\Learning\DotnetCoreStartProject\ApplicationProject\bin\Debug\netstandard2.0\ApplicationProject.deps.json
+D:\Learning\DotnetCoreStartProject\ApplicationProject\bin\Debug\netstandard2.0\ApplicationProject.dll
+D:\Learning\DotnetCoreStartProject\ApplicationProject\bin\Debug\netstandard2.0\ApplicationProject.pdb
+D:\Learning\DotnetCoreStartProject\ApplicationProject\obj\Debug\netstandard2.0\ApplicationProject.AssemblyInfoInputs.cache
+D:\Learning\DotnetCoreStartProject\ApplicationProject\obj\Debug\netstandard2.0\ApplicationProject.AssemblyInfo.cs
+D:\Learning\DotnetCoreStartProject\ApplicationProject\obj\Debug\netstandard2.0\ApplicationProject.csproj.CoreCompileInputs.cache
+D:\Learning\DotnetCoreStartProject\ApplicationProject\obj\Debug\netstandard2.0\ApplicationProject.dll
+D:\Learning\DotnetCoreStartProject\ApplicationProject\obj\Debug\netstandard2.0\ApplicationProject.pdb
+D:\Learning\DotnetCoreStartProject\ApplicationProject\obj\Debug\netstandard2.0\ApplicationProject.csproj.AssemblyReference.cache

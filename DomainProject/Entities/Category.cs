@@ -1,8 +1,8 @@
-﻿using DomainProject.Common;
+﻿using DotnetCoreStartProject.Domain.Common;
 using System;
 using System.Collections.Generic;
 
-namespace DomainProject.Entities
+namespace DotnetCoreStartProject.Domain.Entities
 {
     public class Category: AuditableEntity
     {

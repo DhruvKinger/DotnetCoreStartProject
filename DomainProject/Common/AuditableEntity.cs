@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DomainProject.Common
+namespace DotnetCoreStartProject.Domain.Common
 {
     public class AuditableEntity
     {

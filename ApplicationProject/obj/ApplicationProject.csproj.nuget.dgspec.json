@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\DotnetCoreStartProject\\DomainProject\\DomainProject.csproj": {}
+    "D:\\Learning\\DotnetCoreStartProject\\ApplicationProject\\ApplicationProject.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\DotnetCoreStartProject\\DomainProject\\DomainProject.csproj": {
+    "D:\\Learning\\DotnetCoreStartProject\\ApplicationProject\\ApplicationProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\DotnetCoreStartProject\\DomainProject\\DomainProject.csproj",
-        "projectName": "DomainProject",
-        "projectPath": "D:\\Learning\\DotnetCoreStartProject\\DomainProject\\DomainProject.csproj",
+        "projectUniqueName": "D:\\Learning\\DotnetCoreStartProject\\ApplicationProject\\ApplicationProject.csproj",
+        "projectName": "ApplicationProject",
+        "projectPath": "D:\\Learning\\DotnetCoreStartProject\\ApplicationProject\\ApplicationProject.csproj",
         "packagesPath": "C:\\Users\\Vrinda Goyal\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\DotnetCoreStartProject\\DomainProject\\obj\\",
+        "outputPath": "D:\\Learning\\DotnetCoreStartProject\\ApplicationProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,7 +1,7 @@
-﻿using DomainProject.Common;
+﻿using DotnetCoreStartProject.Domain.Common;
 using System;
 
-namespace DomainProject.Entities
+namespace DotnetCoreStartProject.Domain.Entities
 {
     public class Order: AuditableEntity
     {

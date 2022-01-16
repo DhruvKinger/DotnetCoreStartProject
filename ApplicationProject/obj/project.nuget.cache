@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UZqCIUnTpVeylNG/M74q2wbw5rJg9IZ8HeN0aBkpHc9QMc8diBgYXNCVqZVmPVBfQmEVwGxtp5miAazmgbmnIw==",
+  "dgSpecHash": "vIuznVokCxgKdZK+l7WXxNTksubx1nsQFQGuUQ/zrnAb0pvBIENUw+BR6L+xQrLi6xugcST9vQnMalAQynvdaw==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\DotnetCoreStartProject\\DomainProject\\DomainProject.csproj",
+  "projectFilePath": "D:\\Learning\\DotnetCoreStartProject\\ApplicationProject\\ApplicationProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vrinda Goyal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Vrinda Goyal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

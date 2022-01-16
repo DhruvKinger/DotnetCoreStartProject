@@ -1,0 +1,9 @@
+D:\Learning\DotnetCoreStartProject\DomainProject\bin\Debug\netstandard2.0\DomainProject.deps.json
+D:\Learning\DotnetCoreStartProject\DomainProject\bin\Debug\netstandard2.0\DomainProject.dll
+D:\Learning\DotnetCoreStartProject\DomainProject\bin\Debug\netstandard2.0\DomainProject.pdb
+D:\Learning\DotnetCoreStartProject\DomainProject\obj\Debug\netstandard2.0\DomainProject.csproj.AssemblyReference.cache
+D:\Learning\DotnetCoreStartProject\DomainProject\obj\Debug\netstandard2.0\DomainProject.AssemblyInfoInputs.cache
+D:\Learning\DotnetCoreStartProject\DomainProject\obj\Debug\netstandard2.0\DomainProject.AssemblyInfo.cs
+D:\Learning\DotnetCoreStartProject\DomainProject\obj\Debug\netstandard2.0\DomainProject.csproj.CoreCompileInputs.cache
+D:\Learning\DotnetCoreStartProject\DomainProject\obj\Debug\netstandard2.0\DomainProject.dll
+D:\Learning\DotnetCoreStartProject\DomainProject\obj\Debug\netstandard2.0\DomainProject.pdb
